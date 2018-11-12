@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+}
+
+.form-group {
+    padding-top: 15px;
+}
+
+.file {
+    margin-top: 7px;
+}
+
+.title {
+    padding-left: 85px;
+
+}
+
+button {
+    margin-left: 5px;
+}
+
+.sign-in {
+    margin-left: 0px;
+}
+
+#passwordRules{
+    display: none;
+}

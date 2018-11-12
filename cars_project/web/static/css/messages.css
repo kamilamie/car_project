@@ -1,0 +1,91 @@
+body {
+    background-color: beige;
+}
+
+.media {
+    background-color: floralwhite;
+}
+
+.media-body > a {
+    font-size: 30px;
+    padding-bottom: 220px;
+}
+
+img {
+    margin-top: 8px;
+    margin-left: 8px;
+}
+
+.media-body p {
+    font-size: 18px;
+}
+
+.user-sort {
+    width: 70%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.form-control {
+    font-size: 20px;
+}
+
+.media-body button {
+    float: right;
+    margin-right: 18px;
+    margin-bottom: 18px;
+    padding: 8px;
+    font-size: 20px;
+}
+
+#user_id {
+    display: none;
+}
+
+.user_id {
+    display: none;
+}
+
+.modal-content {
+    background-color: azure;
+}
+
+.form-group {
+    padding-top: 15px;
+}
+
+.control-label {
+    font-size: 20px;
+}
+
+.modal-content .btn-success {
+    padding: 10px 28px;
+    font-size: 22px;
+
+}
+
+.modal-content .btn-danger {
+    float: left;
+    padding: 10px 28px;
+    font-size: 24px;
+}
+
+.media-body {
+    font-size: 15px;
+
+}
+
+.new_message {
+    padding: 10px 28px;
+    margin-left: 30px;
+    font-size: 22px;
+
+}
+
+.title {
+    margin-bottom: 28px;
+    align-content: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 40px;
+}

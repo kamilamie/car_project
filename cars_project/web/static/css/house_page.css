@@ -1,0 +1,26 @@
+.title {
+    margin: 20px 0px;
+}
+
+body {
+    background-color: beige;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.descr button {
+    padding-left: 30px;
+    padding-right: 30px;
+    float: right;
+    margin-top: 5px
+}
+
+.descr a {
+    margin-top: 5px;
+    font-size: 20px;
+}
+

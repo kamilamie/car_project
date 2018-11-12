@@ -1,0 +1,61 @@
+body {
+    background-color: beige;
+}
+
+.spoiler.disabled .descr-text {
+    display: none;
+}
+
+.media {
+    background-color: floralwhite;
+}
+
+#title {
+    margin-bottom: 22px;
+}
+
+.media-body > a {
+    font-size: 30px;
+    padding-bottom: 220px;
+}
+
+.descr-button {
+    color: cornflowerblue;
+    text-decoration: underline;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.search{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+form.search input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+}
+
+form.search button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: blueviolet;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+
+form.search button:hover {
+    background: #0b7dda;
+}
+
+form.search::after {
+    content: "";
+    clear: both;
+    display: table;
+}

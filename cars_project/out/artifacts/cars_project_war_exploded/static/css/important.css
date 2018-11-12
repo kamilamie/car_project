@@ -1,0 +1,42 @@
+body {
+    background-color: beige;
+}
+
+.spoiler.disabled .descr-text {
+    display: none;
+    margin-bottom: 12px;
+    font-size: 16px;
+}
+
+.media {
+    background-color: floralwhite;
+}
+
+#title {
+    margin-bottom: 22px;
+}
+
+.media-body > a {
+    font-size: 30px;
+
+}
+
+.descr-button {
+    color: cornflowerblue;
+    text-decoration: underline;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.btn-danger {
+    float: right;
+    margin-right: 18px;
+    margin-bottom: 18px;
+    padding: 12px;
+    font-size: 20px;
+    margin-left: 6px;
+}
+
+.item_id {
+    display: none;
+}
